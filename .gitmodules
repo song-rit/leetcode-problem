@@ -1,3 +1,6 @@
 [submodule "leetcode-problem-two-sum-java"]
 	path = leetcode-problem-two-sum-java
 	url = https://github.com/song-rit/leetcode-problem-two-sum-java.git
+[submodule "leetcode-problems-add-two-numbers-java"]
+	path = leetcode-problems-add-two-numbers-java
+	url = https://github.com/song-rit/leetcode-problems-add-two-numbers-java.git
