@@ -4,3 +4,6 @@
 [submodule "leetcode-problems-add-two-numbers-java"]
 	path = leetcode-problems-add-two-numbers-java
 	url = https://github.com/song-rit/leetcode-problems-add-two-numbers-java.git
+[submodule "leetcode-problems-longest-substring-without-repeating-characters-kotlin"]
+	path = leetcode-problems-longest-substring-without-repeating-characters-kotlin
+	url = https://github.com/song-rit/leetcode-problems-longest-substring-without-repeating-characters-kotlin.git
